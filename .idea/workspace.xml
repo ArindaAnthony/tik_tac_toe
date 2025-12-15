@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51e83fb6-0736-481d-a50b-8b8fb3b7a4fd" name="Changes" comment="stage 4">
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/.author_contents_storage_db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/.author_contents_storage_db-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/.author_contents_storage_db-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__com_github_javaparser_javaparser_core_3_25_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__com_google_code_gson_gson_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/Simple_Tic-Tac-Toe_(Java).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/util/Simple_Tic-Tac-Toe_(Java).util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/util/Simple_Tic-Tac-Toe_(Java).util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/modules/util/Simple_Tic-Tac-Toe_(Java).util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea.gitignore/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/Fight/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/Fight/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/main/tictactoe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/main/tictactoe/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/Clue.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/Clue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/FieldState.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/FieldState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/TicTacToeField.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/TicTacToeField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/TicTacToeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/classes/java/test/TicTacToeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/classes/TicTacToeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/classes/TicTacToeTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/TEST-TicTacToeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/TEST-TicTacToeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/Attach.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/FieldState.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/TicTacToeField.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/TicTacToeTest.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/test/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/test/TicTacToeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArindaAnthony&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArindaAnthony/tik_tac_toe.git&quot;,
+    &quot;accountId&quot;: &quot;d0d41b8d-3a75-4290-9df6-2d381105b2eb&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/test/TicTacToeTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="36rEW12ReVxPpLwVQoITS8JVgC2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Edu.LearningObjectsStorageType": "SQLite",
+    "Edu.Yaml.Migrate": "true",
+    "Gradle.Simple Tic-Tac-Toe (Java):Simple Tic-Tac-Toe (Java):task [:Simple_Tic-Tac-Toe__Java_-task:tictactoe.Main.main()].executor": "Run",
+    "Gradle.Tests in 'Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.test'.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.tictactoe.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Tic-Tac-Toe_(Java)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tictactoe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.Main" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Simple Tic-Tac-Toe (Java)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Simple Tic-Tac-Toe (Java)" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tictactoe.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51e83fb6-0736-481d-a50b-8b8fb3b7a4fd" name="Changes" comment="" />
+      <created>1765756321151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765756321151</updated>
+    </task>
+    <task id="LOCAL-00001" summary="stage 4">
+      <option name="closed" value="true" />
+      <created>1765756481450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765756481450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stage 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="stage 4" />
+  </component>
+</project>
